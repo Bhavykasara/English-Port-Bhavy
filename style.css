@@ -1,0 +1,71 @@
+body {
+    font-family: 'Special Elite', cursive;
+}
+
+#img1 {
+    width: 90%;
+    height: 90%;
+}
+
+.hs {
+    font-size: 30px;
+    padding: 1%;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-weight: bold;
+    color: brown;
+}
+
+#hsd {
+    width: 60%;
+    border: 1px solid black;
+    margin-bottom: 3%;
+}
+
+#lo {
+    height: 1px;
+    width: 100%;
+    background-color: black;
+}
+
+#button {
+    margin-bottom: 2%;
+    font-size: 150%;
+}
+
+#img {
+    width: 80%;
+    height: 80%;
+}
+
+#img2 {
+    width: 5%;
+    margin-bottom: 3%;
+}
+
+#b1 {
+    margin-bottom: 1%;
+    width: 8.5%;
+    height: 8.5%;
+    border: 1px solid black;
+    cursor: pointer;
+}
+#b2 {
+    margin-bottom: 1%;
+    width: 10%;
+    height: 10%;
+    border: 1px solid black;
+    cursor: pointer;
+}
+
+#heading {
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-weight: bold;
+    color: brown;
+    font-size: 50px;
+}
+#heading2 {
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-weight: bold;
+    color: brown;
+    font-size: 30px;
+}
